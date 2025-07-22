@@ -18,9 +18,9 @@ Tech Stack
 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Budget Analyzer**](https://github.com/shreyasanjay03/budget-analyzer) | Classifies expenses into needs/wants with visual dashboards | Streamlit, Firebase, scikit-learn |
-| [**Smart Classroom IoT**](https://github.com/shreyasanjay03/smart-classroom) | A full smart class with smart doors, lights, notice board, and attendance | ESP32, Firebase, LCD/OLED |
-| [**OCR Text Extractor**](https://github.com/shreyasanjay03/ocr-raspberrypi-matlab) | Real-time text extraction (printed & handwritten) using Raspberry Pi + MATLAB OCR | MATLAB, Raspberry Pi, Image Processing |
+| [**Budget Analyzer**](https://github.com/Shreya-Sanjay08/budget-analyzer) | Classifies expenses into needs/wants with visual dashboards | Streamlit, Firebase, scikit-learn |
+| [**Smart Classroom IoT**](https://github.com/Shreya-Sanjay08/smart-classroom) | A full smart class with smart doors, lights, notice board, and attendance | ESP32, Firebase, LCD/OLED |
+| [**OCR Text Extractor**](https://github.com/Shreya-Sanjay08/ocr-raspberrypi-matlab) | Real-time text extraction (printed & handwritten) using Raspberry Pi + MATLAB OCR | MATLAB, Raspberry Pi, Image Processing |
 
 
 Currently Working On:
