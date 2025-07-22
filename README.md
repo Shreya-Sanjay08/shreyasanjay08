@@ -1,6 +1,6 @@
 # shreyasanjay08
 
-👋 Hi there, I'm Shreya Sanjay
+Hi there! I'm Shreya Sanjay
 
 🎓 2nd Year Computer Systems Engineering student.
 🚀 Passionate about building real-world tech projects that combine IoT, AI/ML, and creative problem-solving.
