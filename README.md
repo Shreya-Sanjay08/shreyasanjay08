@@ -19,10 +19,8 @@ Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**Budget Analyzer**](https://github.com/shreyasanjay03/budget-analyzer) | Classifies expenses into needs/wants with visual dashboards | Streamlit, Firebase, scikit-learn |
-| [**Resume Analyzer**](https://github.com/shreyasanjay03/resume-analyzer) | ATS-style resume classifier with NLP & ML | NLTK, Logistic Regression |
 | [**Smart Classroom IoT**](https://github.com/shreyasanjay03/smart-classroom) | A full smart class with smart doors, lights, notice board, and attendance | ESP32, Firebase, LCD/OLED |
 | [**OCR Text Extractor**](https://github.com/shreyasanjay03/ocr-raspberrypi-matlab) | Real-time text extraction (printed & handwritten) using Raspberry Pi + MATLAB OCR | MATLAB, Raspberry Pi, Image Processing |
-| [**Smart Garage FSM**](https://github.com/shreyasanjay03/garage-door-fsm) | Moore FSM-based garage door controller with full VHDL simulation | VHDL, FSM Design, Testbench |
 
 
 Currently Working On:
